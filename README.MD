@@ -29,9 +29,7 @@ Navigate to the directory where the project was installed
 
 Here's a screenshot of the project in action:
 
-![Capstone Project](https://github.com/Varnasse/finalCapstone/blob/main/capstone.png)
-
-<hr />
+<img width="330" alt="capstone" src="https://user-images.githubusercontent.com/89726635/211517545-a1723386-8762-47f9-a905-c34e414d737f.png">
 
 ## Credits
 This project was created by Daniel Nelson as part of the HyperionDev Software Engineering Bootcamp.
